@@ -1,0 +1,14 @@
+{
+  "name": "opencode-auto-background",
+  "version": "1.0.0",
+  "description": "OpenCode plugin that runs every shell/bash tool call in the background.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "peerDependencies": {
+    "@opencode/plugin": ">=2.0.0"
+  },
+  "license": "MIT"
+}
