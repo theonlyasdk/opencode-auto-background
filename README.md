@@ -38,4 +38,4 @@ To disable, remove the plugin file and run `opencode reload`.
 
 ## License
 
-MIT License (See LICENSE for more info).
+MIT License (See [LICENSE](LICENSE) for more info).
